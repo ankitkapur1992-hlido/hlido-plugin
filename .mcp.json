@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hlido": {
+      "type": "http",
+      "url": "https://hlido.eu/mcp"
+    }
+  }
+}
