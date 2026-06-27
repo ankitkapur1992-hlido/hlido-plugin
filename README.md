@@ -28,7 +28,7 @@ claude-code", "recommend a CLI pair programmer with strong git support."
 **Install now — straight from this repo (works today, no waiting):**
 
 ```
-/plugin marketplace add ankitkapur1992-hlido/hlido-plugin
+/plugin marketplace add hlido/hlido-plugin
 /plugin install hlido@hlido
 ```
 
