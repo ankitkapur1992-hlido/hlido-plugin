@@ -25,18 +25,30 @@ claude-code", "recommend a CLI pair programmer with strong git support."
 
 ## Install
 
-Once the plugin is listed in the community marketplace:
+**Install now — straight from this repo (works today, no waiting):**
+
+```
+/plugin marketplace add ankitkapur1992-hlido/hlido-plugin
+/plugin install hlido@hlido
+```
+
+That is it — `/hlido:check`, `/hlido:recommend`, and the MCP trust tools are
+live immediately, zero auth.
+
+*Also submitted to the official community marketplace (in review). Once listed
+you will additionally be able to:*
 
 ```
 /plugin marketplace add anthropics/claude-plugins-community
 /plugin install hlido@claude-community
 ```
 
-To try it locally from a clone of this repo:
+Or try it locally from a clone of this repo:
 
 ```bash
 claude --plugin-dir ./hlido-plugin
 ```
+
 
 ## Optional configuration
 
