@@ -1,0 +1,15 @@
+{
+  "name": "hlido",
+  "owner": {
+    "name": "Hlido",
+    "url": "https://hlido.eu"
+  },
+  "plugins": [
+    {
+      "name": "hlido",
+      "source": "./",
+      "description": "Independent trust checks for AI agents — \"Rotten Tomatoes for AI agents\". Look up any agent's verified score, tier, and claim-by-claim evidence, get vetted shortlists, and give Claude live access to Hlido's review corpus via MCP. Public data, no auth required.",
+      "homepage": "https://hlido.eu"
+    }
+  ]
+}
